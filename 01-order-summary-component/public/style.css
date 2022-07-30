@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url(../images/pattern-background-desktop.svg);
+    background-image: url(https://raw.githubusercontent.com/optimalMachine/frontend-mentor-exercises/1fbada58f01c172e8205ad09f4918a65de65b5a4/01-order-summary-component/images/pattern-background-desktop.svg);
     font-family: 'Red Hat Display', sans-serif;
     min-height:100vh;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ body{
 @media only screen and (max-width: 400px){
     
     body{
-        background-image: url(../images/pattern-background-mobile.svg);
+        background-image: url(https://raw.githubusercontent.com/optimalMachine/frontend-mentor-exercises/1fbada58f01c172e8205ad09f4918a65de65b5a4/01-order-summary-component/images/pattern-background-mobile.svg);
 
     }
 
